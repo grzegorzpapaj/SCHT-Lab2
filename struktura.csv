@@ -1,0 +1,15 @@
+host1,host2,nr1,nr2,odleglosc,portHost1,portHost2
+Dublin,Londyn,1,2,460,2,2
+Londyn,Paryz,2,3,361,3,2
+Paryz,Madryt,3,4,1030,3,2
+Madryt,Lizbona,4,5,496,3,3
+Paryz,Mediolan,3,6,634,4,2
+Mediolan,Rzym,6,7,530,3,3
+Mediolan,Praga,6,8,652,4,2
+Praga,Berlin,8,9,266,3,3
+Praga,Warszawa,8,10,508,4,3
+Dublin,Berlin,1,9,1319,4,2
+Berlin,Warszawa,9,10,520,4,4
+Rzym,Warszawa,7,10,1305,4,2
+Rzym,Madryt,7,4,1377,2,4
+Lizbona,Dublin,5,1,1640,2,3
